@@ -30,4 +30,4 @@ Please feel free to contact sheenanick@gmail.com if you have any issues or quest
 
 This software is licensed under the MIT license.
 
-Copyright (c) 2016 **_Sheena Nickerson and Thomas Rivas_**
+Copyright (c) 2016 **_Sheena Nickerson and Garrett Boggs_**
